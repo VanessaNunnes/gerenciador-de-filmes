@@ -123,6 +123,13 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {
+            "baseHref": "https://vanessanunnes.github.io/meu-portfolio/",
+            "repo": "https://github.com/VanessaNunnes/meu-portfolio.git"
+          }
         }
       }
     }

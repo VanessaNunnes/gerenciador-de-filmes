@@ -127,8 +127,8 @@
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
           "options": {
-            "baseHref": "https://vanessanunnes.github.io/meu-portfolio/",
-            "repo": "https://github.com/VanessaNunnes/meu-portfolio.git"
+            "baseHref": "https://vanessanunnes.github.io/gerenciador-de-filmes/",
+            "repo": "https://github.com/VanessaNunnes/gerenciador-de-filmes.git"
           }
         }
       }
